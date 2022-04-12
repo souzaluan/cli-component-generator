@@ -1,6 +1,6 @@
 {
   "name": "cli-component-generator",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A cli tool to instantly generate your components!",
   "keywords": [
     "cli",
