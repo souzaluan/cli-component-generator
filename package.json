@@ -1,0 +1,29 @@
+{
+  "name": "cli-component-generator",
+  "version": "1.0.0",
+  "description": "A cli tool to instantly generate your components!",
+  "keywords": [
+    "cli",
+    "react",
+    "tool",
+    "generator"
+  ],
+  "main": "./script.js",
+  "bin": {
+    "generator": "./script.js"
+  },
+  "bugs": {
+    "url": "https://github.com/souzaluan",
+    "email": "luan.souza69@hotmail.com"
+  },
+  "homepage": "https://github.com/souzaluan/cli-component-generator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luan Souza",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
