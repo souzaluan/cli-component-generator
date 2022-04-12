@@ -3,8 +3,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const componentModel = require("./component/preferences");
-const preferences = require("./component/model");
+const componentModel = require("./component/model");
+const preferences = require("./component/preferences");
 
 (async () => {
   const component = await preferences();
